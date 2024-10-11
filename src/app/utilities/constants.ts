@@ -1,2 +1,2 @@
 export const companyName = 'Maestro José Gregorio';
-export const wpp = '+573214223175';
+export const wpp = '+525585719956';
