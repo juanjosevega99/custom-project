@@ -1,2 +1,2 @@
-export const companyName = 'Nombre de la empresa';
+export const companyName = 'Maestro José Gregorio';
 export const wpp = '+573214223175';

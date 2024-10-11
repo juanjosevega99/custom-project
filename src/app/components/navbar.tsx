@@ -5,7 +5,7 @@ export function Navbar() {
   return (
     <nav className="flex justify-between items-center p-4 bg-white border-b border-gray-200">
       <div className="text-xl font-bold">
-        <Link href="/">✨ {companyName} ✨</Link>
+        <Link href="/">{companyName}</Link>
       </div>
       <ul className="flex space-x-4">
         <li><Link href="/">Inicio</Link></li>
